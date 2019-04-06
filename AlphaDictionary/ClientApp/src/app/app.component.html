@@ -1,0 +1,12 @@
+<div class="navBar" fxLayout="row" fxLayoutAlign="space-between center">
+  <div fxLayout="row">
+    <h1>Alpha Translator.</h1><!--dobavi link kum homepage-a-->
+  </div>
+  <img src="assets/images/LOGO.png" alt="Alpha Dictionary Logo" id="logo" /><!--centrirai taq snimka-->
+  <div class="headings" fxLayout="row">
+    <button mat-button [routerLink]="['./']">Home </button>
+    <button mat-button [routerLink]="['./about']">About</button>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

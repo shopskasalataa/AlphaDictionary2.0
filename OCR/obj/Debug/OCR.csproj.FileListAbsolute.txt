@@ -1,0 +1,12 @@
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\x86\liblept1753.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\x86\libtesseract3052.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\x64\liblept1753.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\x64\libtesseract3052.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\OCR.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\OCR.pdb
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\bin\Debug\Tesseract.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\obj\Debug\OCR.csprojAssemblyReference.cache
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\obj\Debug\OCR.csproj.CoreCompileInputs.cache
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\obj\Debug\OCR.csproj.CopyComplete
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\obj\Debug\OCR.dll
+C:\Users\Home1\Desktop\AlphaDictionary2.0-master\OCR\obj\Debug\OCR.pdb

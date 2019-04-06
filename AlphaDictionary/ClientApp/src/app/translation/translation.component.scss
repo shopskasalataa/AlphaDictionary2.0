@@ -1,0 +1,124 @@
+.horizontalDiv {
+  flex-direction: row;
+}
+
+#logo {
+  max-height: 60px;
+  max-width: 60px;
+  align-content:center;
+}
+
+.dropbtn {
+  background-color: #4093ef;
+  color: white;
+  padding: 16px;
+  font-size: 26px;
+  border: none;
+  cursor: pointer;
+  width: 210px;
+}
+
+.dropdownLanguage1 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownLanguage2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownTOT {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  list-style: none;
+  padding: 3px 0;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-size: 26px;
+  width: 210px;
+  margin: 0px;
+}
+
+.dropdown-content li {
+  background: none;
+  color: #888888;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  
+}
+
+.dropdown-content li:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdownLanguage1:hover .dropdown-content {
+  display: block;
+}
+
+.dropdownLanguage2:hover .dropdown-content {
+  display: block;
+}
+
+.dropdownTOT:hover .dropdown-content {
+  display: block;
+}
+
+.dropdownLanguage1:hover .dropbtn {
+  background-color: #3379c6;
+}
+
+.dropdownLanguage2:hover .dropbtn {
+  background-color: #3379c6;
+}
+
+.dropdownTOT:hover .dropbtn {
+  background-color: #3379c6;
+}
+
+textarea {
+  width: 50%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize:none;
+}
+
+.textareas{
+  width: 100%;
+}
+
+.font-size-45 {
+  font-size: 45px !important;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.halfWidth {
+  width: 50%;
+}
+
+input[type=file] {
+  display: none;
+}
+
+.margin-20 {
+  margin: 20px;
+}
+
+.cursorPointer:hover {
+  cursor: pointer;
+}
